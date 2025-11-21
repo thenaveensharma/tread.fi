@@ -1,0 +1,25 @@
+// Imports
+import ___CSS_LOADER_API_SOURCEMAP_IMPORT___ from "../../../node_modules/css-loader/dist/runtime/sourceMaps.js";
+import ___CSS_LOADER_API_IMPORT___ from "../../../node_modules/css-loader/dist/runtime/api.js";
+var ___CSS_LOADER_EXPORT___ = ___CSS_LOADER_API_IMPORT___(___CSS_LOADER_API_SOURCEMAP_IMPORT___);
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, `.VxB0gGf3mdFtt0m0J5Cv {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.VxB0gGf3mdFtt0m0J5Cv canvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+  pointer-events: none;
+}
+
+`, "",{"version":3,"sources":["webpack://./src/shared/components/FaultyTerminal.css"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,QAAQ;EACR,gBAAgB;EAChB,oBAAoB;AACtB;;AAEA;EACE,WAAW;EACX,YAAY;EACZ,cAAc;EACd,oBAAoB;AACtB","sourcesContent":[".faulty-terminal-container {\n  position: absolute;\n  inset: 0;\n  overflow: hidden;\n  pointer-events: none;\n}\n\n.faulty-terminal-container canvas {\n  width: 100%;\n  height: 100%;\n  display: block;\n  pointer-events: none;\n}\n\n"],"sourceRoot":""}]);
+// Exports
+___CSS_LOADER_EXPORT___.locals = {
+	"faulty-terminal-container": `VxB0gGf3mdFtt0m0J5Cv`
+};
+export default ___CSS_LOADER_EXPORT___;
